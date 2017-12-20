@@ -12,18 +12,18 @@
         "twoColLayoutBig": true,
         "items": [
           {
+            "name": "Single Sign On",
+            "description": " Connect WordPress to every login system on Earth. Really.",
+            "id": "single-sign-on",
+            "href": "https://auth0.com/single-sign-on",
+            "icon": "multifactor"
+          },
+          {
             "name": "User Management",
             "description": "The simplest and easiest to use tools to help administrators manage users.",
             "id": "user-management",
             "href": "https://auth0.com/user-management",
             "icon": "userManagement"
-          },
-          {
-            "name": "Passwordless",
-            "description": "Allow users to login without the need to remember a password.",
-            "id": "passwordless",
-            "href": "https://auth0.com/passwordless",
-            "icon": "passwordless"
           },
           {
             "name": "Lock",
@@ -33,13 +33,6 @@
             "icon": "lock"
           },
           {
-            "name": "Breached Passwords Detection",
-            "description": "Protect your users and services from password leaks.",
-            "id": "breached-passwords",
-            "href": "https://auth0.com/breached-passwords",
-            "icon": "breached"
-          },
-          {
             "name": "Multifactor Authentication",
             "description": "The most usable and friction-free multifactor authentication experience.",
             "id": "guardian",
@@ -47,11 +40,18 @@
             "icon": "multifactor"
           },
           {
-            "name": "Single Sign On",
-            "description": " Connect WordPress to every login system on Earth. Really.",
-            "id": "single-sign-on",
-            "href": "https://auth0.com/single-sign-on",
-            "icon": "multifactor"
+            "name": "Breached Passwords Detection",
+            "description": "Protect your users and services from password leaks.",
+            "id": "breached-passwords",
+            "href": "https://auth0.com/breached-passwords",
+            "icon": "breached"
+          },
+          {
+            "name": "Passwordless",
+            "description": "Allow users to login without the need to remember a password.",
+            "id": "passwordless",
+            "href": "https://auth0.com/passwordless",
+            "icon": "passwordless"
           }
         ]
       }
