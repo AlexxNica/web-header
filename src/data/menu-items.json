@@ -45,6 +45,13 @@
             "id": "guardian",
             "href": "https://auth0.com/multifactor-authentication",
             "icon": "multifactor"
+          },
+          {
+            "name": "Single Sign On",
+            "description": " Connect WordPress to every login system on Earth. Really.",
+            "id": "single-sign-on",
+            "href": "https://auth0.com/single-sign-on",
+            "icon": "multifactor"
           }
         ]
       }

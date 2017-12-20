@@ -19,6 +19,7 @@ import MtmSVG from '../../svg/mtmSVG';
 import MultifactorSVG from '../../svg/MultifactorSVG';
 import PasswordlessSVG from '../../svg/PasswordlessSVG';
 import UserManagementSVG from '../../svg/UserManagementSVG';
+import SingleSignOnSVG from '../../svg/SingleSignOnSVG';
 
 const cx = styles::classNames;
 
@@ -58,7 +59,8 @@ class DropdownListItem extends Component {
       mtm: <MtmSVG />,
       multifactor: <MultifactorSVG />,
       passwordless: <PasswordlessSVG />,
-      userManagement: <UserManagementSVG />
+      userManagement: <UserManagementSVG />,
+      singleSignOn: <SingleSignOnSVG />
     };
     const linkExternal = item.external ? 'external' : null;
     return (
