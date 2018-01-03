@@ -1,3 +1,12 @@
+<a name="4.1.0"></a>
+# 4.1.0 (2018-01-03)
+
+* Adding Custom Auth Element ([469830a](https://github.com/auth0/web-header/commit/469830a))
+* Simplify to just userProfile ([7f36bd3](https://github.com/auth0/web-header/commit/7f36bd3))
+* Trigger minor release ([fb95032](https://github.com/auth0/web-header/commit/fb95032))
+
+
+
 <a name="4.0.36"></a>
 ## 4.0.36 (2017-10-31)
 
