@@ -163,8 +163,8 @@
               },
               {
                 "name": "GDPR",
-                "id": "gdpr-blog",
-                "href": "https://auth0.com/blog/get-ready-for-gdpr/",
+                "id": "gdpr",
+                "href": "https://auth0.com/gdpr",
                 "external": true
               }
             ]
