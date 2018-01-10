@@ -1,3 +1,10 @@
+<a name="4.1.1"></a>
+## 4.1.1 (2018-01-10)
+
+* Release 4.1.1 ([067313c](https://github.com/auth0/web-header/commit/067313c))
+
+
+
 <a name="4.1.0"></a>
 # 4.1.0 (2018-01-03)
 
