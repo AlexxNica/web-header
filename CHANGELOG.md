@@ -1,3 +1,14 @@
+<a name="4.1.2"></a>
+## 4.1.2 (2018-01-10)
+
+* added single sign on icon + link in menu ([42438a6](https://github.com/auth0/web-header/commit/42438a6))
+* fix in sso icon ([3dc2c79](https://github.com/auth0/web-header/commit/3dc2c79))
+* new url for GDPR ([985b823](https://github.com/auth0/web-header/commit/985b823))
+* reorder in menu items in platform ([1e120bb](https://github.com/auth0/web-header/commit/1e120bb))
+* trigger patch release ([2f0088c](https://github.com/auth0/web-header/commit/2f0088c))
+
+
+
 <a name="4.1.1"></a>
 ## 4.1.1 (2018-01-10)
 
