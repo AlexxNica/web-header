@@ -123,7 +123,7 @@
               {
                 "name": "Financial Services",
                 "id": "financial-services",
-                "href": "https://auth0.com/learn/finserv",
+                "href": "https://auth0.com/financial-services",
                 "external": true
               },
               {
@@ -135,7 +135,7 @@
               {
                 "name": "Media",
                 "id": "media",
-                "href": "https://auth0.com/learn/media",
+                "href": "https://auth0.com/media-publishing",
                 "external": true
               },
               {
