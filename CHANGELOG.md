@@ -1,3 +1,12 @@
+<a name="4.1.3"></a>
+## 4.1.3 (2018-01-17)
+
+* change links ([23386c1](https://github.com/auth0/web-header/commit/23386c1))
+* remove telecommunications ([b1088ed](https://github.com/auth0/web-header/commit/b1088ed))
+* Trigger patch release ([1166fae](https://github.com/auth0/web-header/commit/1166fae))
+
+
+
 <a name="4.1.2"></a>
 ## 4.1.2 (2018-01-10)
 
