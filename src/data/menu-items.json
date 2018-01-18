@@ -203,6 +203,11 @@
             "href": "https://auth0.com/security"
           },
           {
+            "name": "Auth0 ROI & TCO",
+            "id": "tei",
+            "href": "https://auth0.com/forrester-total-economic-impact"
+          },
+          {
             "name": "High Availability",
             "id": "availability",
             "href": "https://auth0.com/availability-trust"
