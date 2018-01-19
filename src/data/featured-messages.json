@@ -22,5 +22,13 @@
     "cta": "Join the Mission!",
     "iconColor": "#eb5424",
     "probability": 0
-  }
+  },
+  {
+    "link": "https://www.meetup.com/auth0-online-meetup/",
+    "title": "Auth0 Online Meetup",
+    "description": "Join us Feb 7 as we discuss Security in 2018 with special guest David Calavera, CTO of Netlify.",
+    "cta": "Free RSVP today!",
+    "iconColor": "#eb5424",
+    "probability": 0
+  },
 ]
