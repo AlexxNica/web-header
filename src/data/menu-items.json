@@ -153,12 +153,18 @@
                 "name": "App Modernization",
                 "id": "app-modernization",
                 "href": "https://auth0.com/app-modernization",
-                "external": true
+                "external": false
               },
               {
                 "name": "GDPR",
                 "id": "gdpr",
                 "href": "https://auth0.com/gdpr",
+                "external": false
+              },
+              {
+                "name": "MSFT ACS Migration",
+                "id": "msft-acs",
+                "href": "https://auth0.com/learn/acs/",
                 "external": true
               }
             ]
