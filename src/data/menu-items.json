@@ -160,6 +160,12 @@
                 "id": "gdpr",
                 "href": "https://auth0.com/gdpr",
                 "external": true
+              },
+              {
+                "name": "MSFT ACS Migration",
+                "id": "microsoft-acs",
+                "href": "https://auth0.com/learn/acs/",
+                "external": true
               }
             ]
           }
@@ -201,6 +207,11 @@
             "name": "Security, Privacy & Compliance",
             "id": "security",
             "href": "https://auth0.com/security"
+          },
+          {
+            "name": "Auth0 ROI & RCO",
+            "id": "tei",
+            "href": "https://auth0.com/forrester-total-economic-impact"
           },
           {
             "name": "High Availability",
