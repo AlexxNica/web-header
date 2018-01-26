@@ -1,3 +1,14 @@
+<a name="4.1.4"></a>
+## 4.1.4 (2018-01-26)
+
+* Add Auth0 Online Meetup Banner ([8275d51](https://github.com/auth0/web-header/commit/8275d51))
+* Add TEI and MSFT ACS migration menu items ([a8b4a8a](https://github.com/auth0/web-header/commit/a8b4a8a))
+* Bump version to 4.1.4 ([72e5896](https://github.com/auth0/web-header/commit/72e5896))
+* Fix JSON ([824f14d](https://github.com/auth0/web-header/commit/824f14d))
+* Update probabilities for displaying banners. ([d1620c6](https://github.com/auth0/web-header/commit/d1620c6))
+
+
+
 <a name="4.1.3"></a>
 ## 4.1.3 (2018-01-17)
 
