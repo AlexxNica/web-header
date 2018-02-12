@@ -129,8 +129,8 @@
               {
                 "name": "Healthcare",
                 "id": "healthcare",
-                "href": "https://auth0.com/learn/healthcare/",
-                "external": true
+                "href": "https://auth0.com/healthcare/",
+                "external": false
               },
               {
                 "name": "Media",
@@ -227,6 +227,11 @@
             "name": "Press",
             "id": "press",
             "href": "https://auth0.com/press"
+          },
+          {
+            "name": "Partners",
+            "id": "partners",
+            "href": "https://auth0.com/partners"
           }
         ]
       },
