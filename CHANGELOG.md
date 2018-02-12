@@ -1,3 +1,11 @@
+<a name="4.1.5"></a>
+## <small>4.1.5 (2018-02-12)</small>
+
+* Add healthcare and partners ([e810fa0](https://github.com/auth0/web-header/commit/e810fa0))
+* Trigger patch release ([3126a9d](https://github.com/auth0/web-header/commit/3126a9d))
+
+
+
 <a name="4.1.4"></a>
 ## 4.1.4 (2018-01-26)
 
