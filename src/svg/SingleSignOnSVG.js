@@ -1,7 +1,7 @@
 import React from 'react';
 
 const SingleSignOnSVG = () =>
-  <svg width="53" height="53" xmlns="http://www.w3.org/2000/svg">
+  <svg width="53" height="53" viewBox="0 0 53 53" xmlns="http://www.w3.org/2000/svg">
     <g fill="none" fillRule="evenodd">
       <path
         d="M52.509 26.254C52.509 11.754 40.755 0 26.255 0 11.755 0 0 11.754 0 26.254c0 14.5 11.755 26.254 26.255 26.254 14.5 0 26.254-11.754 26.254-26.254"
